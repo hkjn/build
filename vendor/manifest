@@ -1,0 +1,11 @@
+{
+	"version": 0,
+	"dependencies": [
+		{
+			"importpath": "github.com/kelseyhightower/envconfig",
+			"repository": "https://github.com/kelseyhightower/envconfig",
+			"revision": "cea086319492c3940683ea5e122aa5de70a33923",
+			"branch": "master"
+		}
+	]
+}
