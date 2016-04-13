@@ -1,4 +1,6 @@
 # TODO(hkjn): Could start from scrath and add binary.
+# TODO(hkjn): Should find a way to handle matrix builds for different
+# base images (can be used for different CPU archs).
 FROM hkjn/armv7l-golang
 
 MAINTAINER Henrik Jonsson <me@hkjn.me>
